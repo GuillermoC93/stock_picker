@@ -1,0 +1,1 @@
+The stock picker project in The Odin Project.
